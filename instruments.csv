@@ -1,0 +1,48 @@
+,Identifier,IdentifierType,UserDefinedIdentifier,Exchange,Base,Bloomberg Ticker,Description,Currency,Instrument List Name by Ticker,Instrument List Name by Exchange,Market Close,Important
+0,1BOSURF4,ChainRIC,BO,CBT,1BO,BO,Soybean Oil,USD,Commodity_Vol_Surface_BO,Commodity_Vol_Surface_CBT,14:30,Yes
+1,1CSURF4,ChainRIC,C,CBT,1C,C,Corn,USD,Commodity_Vol_Surface_C,Commodity_Vol_Surface_CBT,14:30,Yes
+2,1KWSURF4,ChainRIC,KW,CBT,1KW,KW,Wheat,USD,Commodity_Vol_Surface_KW,Commodity_Vol_Surface_CBT,14:30,Yes
+3,1OSURF4,ChainRIC,O,CBT,1O,O,Oats,USD,Commodity_Vol_Surface_O,Commodity_Vol_Surface_CBT,14:30,No
+4,1RRSURF4,ChainRIC,RR,CBT,1RR,RR,Rough Rice,USD,Commodity_Vol_Surface_RR,Commodity_Vol_Surface_CBT,14:30,No
+5,1SSURF4,ChainRIC,S,CBT,1S,S,Soybeans,USD,Commodity_Vol_Surface_S,Commodity_Vol_Surface_CBT,14:30,Yes
+6,1SMSURF4,ChainRIC,SM,CBT,1SM,SM,Soybean Meal,USD,Commodity_Vol_Surface_SM,Commodity_Vol_Surface_CBT,14:30,Yes
+7,1WSURF4,ChainRIC,W,CBT,1W,W,Wheat SRW,USD,Commodity_Vol_Surface_W,Commodity_Vol_Surface_CBT,14:30,Yes
+8,2DCSSURF4,ChainRIC,DA,CME,2DCS,DA,Class III Milk,USD,Commodity_Vol_Surface_DA,Commodity_Vol_Surface_CME,17:00,No
+9,2JQSURF4,ChainRIC,DG,CME,2JQ,DG,Mid Sized Milk,USD,Commodity_Vol_Surface_DG,Commodity_Vol_Surface_CME,17:00,No
+10,2FCSURF4,ChainRIC,FC,CME,2FC,FC,Cattle (Feeder),USD,Commodity_Vol_Surface_FC,Commodity_Vol_Surface_CME,14:05,No
+11,2LBSURF4,ChainRIC,LB,CME,2LB,LB,Random Len Lumber,USD,Commodity_Vol_Surface_LB,Commodity_Vol_Surface_CME,16:05,No
+12,2LCSURF4,ChainRIC,LC,CME,2LC,LC,Cattle (Live),USD,Commodity_Vol_Surface_LC,Commodity_Vol_Surface_CME,14:05,Yes
+13,2LHSURF4,ChainRIC,LH,CME,2LH,LH,Lean Hogs (Live),USD,Commodity_Vol_Surface_LH,Commodity_Vol_Surface_CME,14:05,Yes
+14,GCSURF4,ChainRIC,GC,CMX,GC,GC,Gold,USD,Commodity_Vol_Surface_GC,Commodity_Vol_Surface_CMX,17:00,Yes
+15,HGSURF4,ChainRIC,HG,CMX,HG,HG,Copper,USD,Commodity_Vol_Surface_HG,Commodity_Vol_Surface_CMX,17:00,Yes
+16,SISURF4,ChainRIC,SI,CMX,SI,SI,Silver,USD,Commodity_Vol_Surface_SI,Commodity_Vol_Surface_CMX,17:00,Yes
+17,CFI2SURF4,ChainRIC,MO,EDX,CFI2,MO,ECX EUA,EUR,Commodity_Vol_Surface_MO,Commodity_Vol_Surface_EDX,12:00,Yes
+18,TFMBSURF4,ChainRIC,TZT,EDX,TFMB,TZT,TTF NATGAS,EUR,Commodity_Vol_Surface_TZT,Commodity_Vol_Surface_EDX,12:00,Yes
+19,EMASURF4,ChainRIC,EP,EOP,EMA,EP,Corn OPT,EUR,Commodity_Vol_Surface_EP,Commodity_Vol_Surface_EOP,12:30,No
+20,COMSURF4,ChainRIC,IJ,EOP,COM,IJ,Rapeseed OPT,EUR,Commodity_Vol_Surface_IJ,Commodity_Vol_Surface_EOP,12:30,No
+21,LCOSURF4,ChainRIC,CO,ICE,LCO,CO,Brent Crude,USD,Commodity_Vol_Surface_CO,Commodity_Vol_Surface_ICE,18:00,Yes
+22,LRCSURF4,ChainRIC,DF,ICE,LRC,DF,Robusta Coffee N,USD,Commodity_Vol_Surface_DF,Commodity_Vol_Surface_ICE,12:30,No
+23,WTCLSURF4,ChainRIC,EN,ICE,WTCL,EN,WTI Crude,USD,Commodity_Vol_Surface_EN,Commodity_Vol_Surface_ICE,18:00,No
+24,NGLNMSURF4,ChainRIC,FN,ICE,NGLNM,FN,NAT BAL PT,GBP,Commodity_Vol_Surface_FN,Commodity_Vol_Surface_ICE,12:00,No
+25,LCCSURF4,ChainRIC,QC,ICE,LCC,QC,London COCOA,GBP,Commodity_Vol_Surface_QC,Commodity_Vol_Surface_ICE,11:55,No
+26,LGOSURF4,ChainRIC,QS,ICE,LGO,QS,Low Sulphur Gas Oil,USD,Commodity_Vol_Surface_QS,Commodity_Vol_Surface_ICE,18:00,Yes
+27,MALSURF4,ChainRIC,LA,LME,MAL,LA,Aluminum,USD,Commodity_Vol_Surface_LA,Commodity_Vol_Surface_LME,11:35,Yes
+28,MNASURF4,ChainRIC,LK,LME,MNA,LK,North American Alloy,USD,Commodity_Vol_Surface_LK,Commodity_Vol_Surface_LME,11:40,No
+29,MPBSURF4,ChainRIC,LL,LME,MPB,LL,Lead,USD,Commodity_Vol_Surface_LL,Commodity_Vol_Surface_LME,11:30,Yes
+30,MNISURF4,ChainRIC,LN,LME,MNI,LN,Nickel,USD,Commodity_Vol_Surface_LN,Commodity_Vol_Surface_LME,12:00,Yes
+31,MCUSURF4,ChainRIC,LP,LME,MCU,LP,Copper,USD,Commodity_Vol_Surface_LP,Commodity_Vol_Surface_LME,11:50,Yes
+32,MSNSURF4,ChainRIC,LT,LME,MSN,LT,Tin,USD,Commodity_Vol_Surface_LT,Commodity_Vol_Surface_LME,11:10,No
+33,MZNSURF4,ChainRIC,LX,LME,MZN,LX,Zinc,USD,Commodity_Vol_Surface_LX,Commodity_Vol_Surface_LME,11:00,Yes
+34,MAASURF4,ChainRIC,LY,LME,MAA,LY,Aluminum 2nd alloy,USD,Commodity_Vol_Surface_LY,Commodity_Vol_Surface_LME,11:40,No
+35,MWESURF4,ChainRIC,MW,MGE,MWE,MW,Wheat OPTS,USD,Commodity_Vol_Surface_MW,Commodity_Vol_Surface_MGE,14:15,No
+36,CCSURF4,ChainRIC,CC,NYB,CC,CC,ICE US Cocoa,USD,Commodity_Vol_Surface_CC,Commodity_Vol_Surface_NYB,13:30,Yes
+37,CTSURF4,ChainRIC,CT,NYB,CT,CT,Cotton,USD,Commodity_Vol_Surface_CT,Commodity_Vol_Surface_NYB,14:20,Yes
+38,OJSURF4,ChainRIC,JO,NYB,OJ,JO,NYC Frozen OJ,USD,Commodity_Vol_Surface_JO,Commodity_Vol_Surface_NYB,14:00,No
+39,KCSURF4,ChainRIC,KC,NYB,KC,KC,"Coffee ""C""",USD,Commodity_Vol_Surface_KC,Commodity_Vol_Surface_NYB,13:30,Yes
+40,SBSURF4,ChainRIC,SB,NYB,SB,SB,Sugar No. 11,USD,Commodity_Vol_Surface_SB,Commodity_Vol_Surface_NYB,13:00,Yes
+41,CLSURF4,ChainRIC,CL,NYM,CL,CL,WTI Crude,USD,Commodity_Vol_Surface_CL,Commodity_Vol_Surface_NYM,17:00,Yes
+42,HOSURF4,ChainRIC,HO,NYM,HO,HO,Heating Oil,USD,Commodity_Vol_Surface_HO,Commodity_Vol_Surface_NYM,17:00,Yes
+43,NGSURF4,ChainRIC,NG,NYM,NG,NG,Natural Gas,USD,Commodity_Vol_Surface_NG,Commodity_Vol_Surface_NYM,17:00,Yes
+44,PASURF4,ChainRIC,PA,NYM,PA,PA,Palladium,USD,Commodity_Vol_Surface_PA,Commodity_Vol_Surface_NYM,17:00,Yes
+45,PLSURF4,ChainRIC,PL,NYM,PL,PL,Platinum,USD,Commodity_Vol_Surface_PL,Commodity_Vol_Surface_NYM,17:00,Yes
+46,RBSURF4,ChainRIC,XB,NYM,RB,XB,Gasoline RBOB,USD,Commodity_Vol_Surface_XB,Commodity_Vol_Surface_NYM,17:00,Yes
